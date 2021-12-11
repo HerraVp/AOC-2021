@@ -40,7 +40,7 @@ test {
 }
 
 application {
-    mainClass = 'net.akaritakai.aoc2021.Main'
+    mainClass = 'me.vp.aoc2021.Main'
 }
 
 jacocoTestReport {
